@@ -1,0 +1,67 @@
+.lightbox{
+	width:400px;
+	height:250px;
+	padding:0;
+	-webkit-border-radius:5px;
+        -moz-border-radius:5px;
+        border-radius:5px;
+	background:#E0E5DE;
+}
+
+.lightbox .title {
+    -webkit-border-radius: 3px 3px 0 0;
+    -moz-border-radius: 3px 3px 0 0;
+    border-radius: 3px 3px 0 0;
+    color: #444;
+    display: block;
+    font-size:13pt;
+    margin-bottom:20px;
+    padding:15px 20px;
+    border-bottom:1px solid #C0C0C0;
+}
+
+.lightbox input[type="text"], .lightbox input[type="password"] {
+    background:#F5F7F8;
+    border:1px solid #444;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+    display: block;
+    float: left;
+    height: 40px;
+    margin: 0 0 20px 20px;
+    padding-left:10px;
+    width: 260px;
+    font-size:11pt;
+}
+
+.lightbox label {
+    clear: left;
+    color: #444;
+    display: block;
+    float: left;
+    font-size: 10.5pt;
+    line-height: 40px;
+    text-align: right;
+    width: 90px;
+}
+
+.lightbox input[type="submit"], .lightbox input[type="button"] {
+    border:1px solid #BABABA;
+    cursor: pointer;
+    display: block;
+    float: left;
+    font-size: 10pt;
+    height: 40px;
+    margin-left: 20px;
+    padding:0 20px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+}
+
+.login_box{}
+
+.tickspot_box{width:430px;height:320px;}
+.tickspot_box #tickspot_company{width:175px;}
+.tickspot_box span.company{float:left;font-size:10pt;line-height:40px;margin-left:5px;}

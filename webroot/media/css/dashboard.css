@@ -1,0 +1,31 @@
+.dashboard label{width:100px;float:left;margin:5px 0;}
+.dashboard select{float:left;margin:5px 0;}
+.dashboard input[type="text"],.dashboard textarea{float:left;margin:5px 0;}
+
+.float-left{float:left;margin:5px 0;}
+
+
+.tickhub_entry{width:450px;float:left;}
+.tickhub_entry label{display:block;clear:left;}
+.tickhub_entry h2{margin-bottom:15px;}
+#tickspot_date{width:80px;}
+#tickspot_submit{margin-left:0px;}
+
+#github_to_hide{overflow:hidden;clear:left;}
+.github_commits{width:450px;float:left;}
+.github_commits select{margin-left:10px;float:left;}
+#github_emails{margin-top:5px;float:left;}
+#github_emails input[type="checkbox"]{float:left;margin-left:10px;margin-right:5px;clear:left;}
+#github_emails span{float:left;display:block;}
+#github_emails input[type="checkbox"]:last-child, #github_emails span:last-child{margin-bottom:10px;}
+.github_commits h2{margin-bottom:15px;}
+.github_commits ul{padding:0 0 0 0;clear:left;}
+.github_commits li{border:1px dotted;border-top:none;list-style:none;margin-left:0;padding:5px;}
+.github_commits li:last-child{border:none;}
+.github_commits li:first-child{border-top:1px dotted;}
+.github_commits li span.message{color:#000;font-weight:bold;}
+.github_commits li span.commit_author{display:block;}
+.github_commits li a{float:right;margin-top:-10px;padding:0 0 0 5px;}
+.github_commits label{display:block;width:100px;clear:left;float:left;}
+.github_commits input[type="button"]{float:left;padding:5px 10px;margin-left:10px;}
+#tickspot_hours, #tickspot_minutes{width:20px;}
